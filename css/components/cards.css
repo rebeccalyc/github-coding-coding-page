@@ -1,0 +1,25 @@
+.cards {
+  text-align: center;
+  box-shadow:  2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+  width: 300px;
+}
+
+.cards img {
+  width: 150px;
+  height: 150px;
+  padding: 10px;
+}
+
+.cards-text {
+  line-height: 20px;
+  padding: 15px;
+}
+
+.cards-text h2{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.cards-text p {
+  color: grey;
+}

@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 50px 10px;
+}
+
+.container-footer {
+  background-color: rgb(41, 40, 40);
+  padding: 50px 10px;
+  text-align: center;
+  color: grey;
+}

@@ -1,0 +1,17 @@
+.buttons {
+  background-color: lightgreen;
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+.buttons:hover {
+  background-color: green;
+}
+
+.social-icon-btn {
+  width: 200px;
+  height: 200px;
+  color: lightgreen;
+  padding: 5px;
+}
